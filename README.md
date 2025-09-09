@@ -38,6 +38,20 @@ To analyze and classify sentiments and emotions in social media text using BERT,
 - **Evaluation:** scikit-learn (accuracy, precision, recall, F1)
 - **Visualization:** matplotlib, seaborn
 - **Environment:** Jupyter Notebook
+  
+## Results / Screenshots
+
+### Confusion Matrix & Classification Report
+<p align="center">
+  <img src="screenshots/BERT%20Classifier-Confusion%20Matrix.jpeg" width="45%" />
+  <img src="screenshots/Classification%20Report%20for%20BERT.jpeg" width="45%" />
+</p>
+
+### Emotion Distribution & Input Length Analysis
+<p align="center">
+  <img src="screenshots/Emotion%20Distribution.jpeg" width="45%" />
+  <img src="screenshots/Input%20Length%20Analysis.jpeg" width="45%" />
+</p>
 
 ## How to Run
 1. **Install dependencies**
